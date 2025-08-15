@@ -37,7 +37,7 @@ The pre-trained weights of DenseNet121 are fine-tuned to specialize in recognizi
 
 ### 4. **Evaluation**
 The model was evaluated on a validation set with metrics such as:
-- Accuracy
+- Accuracy 
 
 ---
 
@@ -46,6 +46,18 @@ The model was evaluated on a validation set with metrics such as:
 - **Insights**: DenseNet performed better in earlier trials, but VGG16 showed comparable results with lower computational requirements.
 
 ---
+
+## Real-Field Evaluation
+
+<img width="2000" height="1545" alt="Grey Modern Fashion Photo Collage" src="https://github.com/user-attachments/assets/dc21b0cf-962b-4d4d-b16d-f517aa71eeea" />
+
+
+- The model was tested on finger millet plants in actual farm conditions to assess its performance outside the lab. It achieved consistent results, demonstrating robust disease detection even under varying lighting and background conditions, validating its practical applicability for farmers.
+
+---
+# Disease Detection in Finger Millet (Ragi) Plant Using Fine-Tuned Transfer Learning Models
+🏆 *Winner of IEEE Best Paper Award*
+
 
 ## How to Use
 ### 1. **Prerequisites**
